@@ -2,4 +2,4 @@
 
 | Assignments | Questions | My Solution |
 |:--:|:--:|:--:|
-| [Assignment 2](assignment2/) | [pdf](assignment2/questions.pdf) | [pdf](assignment2/mysol.pdf), [tex](assignment2/src/main.tex) |
+| [Assignment 2](assignment2/) | [pdf](assignment2/questions.pdf) | [pdf](assignment2/mysol.pdf), [tex](https://github.com/pufanyi/MH4320-Assignments/tree/main/assignment2/src) |
