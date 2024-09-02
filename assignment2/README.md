@@ -1,4 +1,4 @@
-Assignment 2
+### Assignment 2
 
 - [questions](questions.pdf)
 - [my solution](mysol.pdf)
